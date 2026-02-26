@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Xml.Serialization;
-using ConsoleApp1.Models;
+﻿using ConsoleApp1.Models;
 using ConsoleApp1.Services;
 
 class Program
